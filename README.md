@@ -1,7 +1,5 @@
 # Server Status - project bootstraped on NodeJs/Express and Vue.js as Client
-*Check if your servers are working.
-##
-**This servers tests if your server/servers are working every 1 minute
+*This servers tests if your server/servers are working every 1 minute
 
 ## Usage:
 1. In the `client` folder add your logo
