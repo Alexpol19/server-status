@@ -1,0 +1,32 @@
+h5, h2, h3, p{
+  margin-bottom: 0!important;
+}
+.card-body {
+  justify-content: space-between;
+  align-items: center;
+}
+.status-box {
+  justify-content: space-between;
+  align-items: center;
+}
+.status-box h3, .status-box p {
+  color: #fff;
+  font-weight: 600;
+}
+
+.success {
+  color: green;
+}
+.error {
+  color: red;
+}
+.successBg {
+  background: green;
+}
+.errorBg {
+  background: red;
+}
+
+.text-right {
+  text-align: right;
+}
