@@ -4,7 +4,7 @@
 
 ## Usage:
 1. In the `client` folder add your logo
-2. In the `client/index.html` connect your logo in 2 places
+2. In the `client/index.html` connect your `logo.svg` in 2 places
 3. Also in `index.html` add your description if you need
 4. In the `index.js` push your api points in the data variable
 
@@ -18,5 +18,5 @@ npm install
 npm start
 ```
 
-## Some Images:
+## Preview:
 ![view](https://github.com/Alexpol19/server-status/blob/main/server-status.png)
